@@ -34,3 +34,4 @@ uvicorn main:app --reload
 Visit Swagger UI:
 
 http://127.0.0.1:8000/docs# -Attendance-Management-API-using-FastAPI-MySQL
+# -Attendance-Management-API-using-FastAPI-MySQL
